@@ -1,4 +1,4 @@
-scalaVersion := "2.13.8"
+scalaVersion := "2.13.13"
 
 name := "hello-world"
 organization := "ch.epfl.scala"
